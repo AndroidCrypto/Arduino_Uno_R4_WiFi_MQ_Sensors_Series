@@ -1,3 +1,3 @@
 # ArdUno4_MqUnifiedSensors_MQ_6_ALL_OLED_ThingSpeak
 
-https://medium.com/@androidcrypto/mq-6-sensor-flammable-gases-and-other-gases-usage-with-arduino-r4-wi-fi-97442b4e8d58
+This is the repository with the source code for the article: MQ-5 Sensor (Natural and Liquid Petroleum Gases and other gases) usage with Arduino R4 Wi-Fi, readable here: https://medium.com/@androidcrypto/mq-6-sensor-flammable-gases-and-other-gases-usage-with-arduino-r4-wi-fi-97442b4e8d58
