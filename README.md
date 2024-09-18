@@ -19,4 +19,4 @@ Parts of the tutorial:
 
 ## License
 
-Arduino Uno R4 WiFi MQ Sensor Series is available under the MIT license. See the LICENSE.md file for more info.
+Arduino Uno R4 WiFi MQ Sensor Series is available under the MIT license. See the LICENSE file for more info.
