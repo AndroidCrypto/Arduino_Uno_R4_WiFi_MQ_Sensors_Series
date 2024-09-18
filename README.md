@@ -15,4 +15,8 @@ Parts of the tutorial:
 - **MQ-9 Sensor**: get values for Liquid Petroleum Gas (LPG), Methane (CH4) and Carbon Monoxide (CO). Product Overview: Equipped with high-low temperature cycling detection, this module is adept at sensing carbon monoxide, methane, and liquefied petroleum gas. It's a cost-effective choice for diverse gas detection applications. Link to the article: will follow
 - **MQ-135 Sensor**: get values for Carbon Monoxide (CO), Carbon Dioxide (CO2), Alcohol, Toluen (Methylbenzol, C6H5CH3), Ammonium (NH4) and Acetone (CH₃COCH₃). Product Overview: Designed for monitoring home and industrial gas leaks, this module is suitable for detecting gases like liquefied petroleum gas, butane, propane, methane, smoke, ammonia, sulfide, and benzene. Link to the article: https://medium.com/@androidcrypto/mq-135-sensor-carbon-dioxide-and-other-gases-usage-with-arduino-r4-wi-fi-25df8dbd6f76
 - **Burn-In an MQ-Sensor**: it is necessary to burn-in a brand-new sensor or a sensor that was not in usage for a long period of time. This article describes how to run such a burn-in period, including a sketch that documents the sensor readings during this burn-in period. Link to the article: https://medium.com/@androidcrypto/mq-sensors-series-burn-in-with-arduino-r4-wi-fi-afb642776ba9
-- **Datasheets**: find sample datasheets for all sensors covered by the article series  
+- **Datasheets**: find sample datasheets for all sensors covered by the article series
+
+## License
+
+Arduino Uno R4 WiFi MQ Sensor Series is available under the MIT license. See the LICENSE.md file for more info.
